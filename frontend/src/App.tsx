@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      <h1>Dev Superior</h1>
+      <h1 className="text-primary">Dev Superior</h1>
     </div>
   );
 }
